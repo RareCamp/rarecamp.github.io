@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://rarecamp.github.io
+title: RareCamp
+logo: rarecamp-logo.png
+email: sanath@gpx4.org
+author: Sanath Kumar Ramesh
+description: > # "Write an awesome description for your new site here. 
+  RareCamp is an open source software platform to help patient-led organizations
+  build treatments for any monogenic rare diseases
+copyright: 'Apache 2.0 License'
+credits: 'Theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/RareCamp/RareCamp
+

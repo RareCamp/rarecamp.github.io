@@ -1,0 +1,40 @@
+<!-- Collaborators section -->
+
+    <section id="collaborators" class="container content-section text-center">
+        <hr/>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2> Governance </h2>
+                <br/>
+
+                <figure class="figure">
+                    <img src="img/headshots/sanath.png" class="headshot figure-img img-fluid rounded-circle" alt="Sanath Kumar Ramesh"/>
+                    <figcaption class="figure-caption">
+                        <b> Sanath Kumar Ramesh </b> 
+                        <br/> Founder & Chair of RareCamp Project
+                    </figcaption>
+                </figure>
+                <br/>
+                <br/>
+
+                <h2> Contributors </h2>
+                <br/>
+                <div class="row">
+
+                    {% for member in site.data.team %}
+                    <div class="col-md-3">
+
+                        <figure class="figure">
+                            <img src="img/headshots/{{member.headshot}}" class="headshot figure-img img-fluid rounded-circle" alt="...">
+                            <figcaption class="figure-caption">
+                                <b>{{member.name}} </b>
+                                <br/> {{member.role}}
+                            </figcaption>
+                            <br/>
+                        </figure>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>

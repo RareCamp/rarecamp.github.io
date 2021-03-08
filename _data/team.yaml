@@ -1,0 +1,58 @@
+# -------------------- #
+#  Team & Contributors #
+# -------------------- #
+- name: Brett Andrews
+  role: Software Engineer
+  headshot: brett.jpeg
+
+- name: Vysakh Sreenivasan
+  role: Software Engineer
+  headshot: vysakh.jpeg
+
+- name: Uday Pydi
+  role: Software Engineer
+  headshot: uday.png
+
+- name: Ramya Ramaswamy
+  role: Product Designer
+  headshot: ramya.jpeg
+
+- name: Dr. Ashley Winslow
+  role: Gene Therapy Expert
+  headshot: ashley.jpeg
+
+- name: Dr. David Fischer
+  role: Gene Therapy Expert
+  headshot: david.jpeg
+
+- name: Dr.Natalia Morsci
+  role: Gene Therapy Expert
+  headshot: natalia.jpeg
+
+- name: Dr. Rodney Samaco
+  role: Drug Development Expert
+  headshot: vysakh.jpeg
+
+- name: Pam Todd
+  role: Science Writer
+  headshot: pam.jpeg
+
+- name: Dr. Surabi Veeraragavan
+  role: Science Writer
+  headshot: surabhi.jpeg
+
+- name: Parvathy raman
+  role: Science Writer
+  headshot: parvathy.jpeg
+
+- name: Robert Tomaino
+  role: Science Writer
+  headshot: robert.jpeg
+
+- name: Jordan Barrish
+  role: Content Strategy 
+  headshot: jordan.jpeg
+
+- name: Shaine Greenwood
+  role: UX Writer
+  headshot: shaine.jpeg
